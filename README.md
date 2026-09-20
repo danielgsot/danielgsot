@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Daniel García Soto
 
-<!--
-**danielgsot/danielgsot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineer currently working as a Software Engineer at CaixaBank Tech.
 
-Here are some ideas to get you started:
+I'm interested in Data Science, Machine Learning and the mathematical foundations behind modern ML algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+- Machine Learning algorithms from scratch
+- Mathematical foundations for Data Science
+- Bayesian statistics
+- Optimization for Machine Learning
+
+## Technologies
+
+Python · SQL · NumPy · Pandas · scikit-learn · Git
+
+## Interests
+
+Machine Learning · Statistics · Optimization · Data Science
